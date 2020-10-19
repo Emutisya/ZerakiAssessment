@@ -1,6 +1,5 @@
 ZerakiAssessment 
 
-Welcome to the ZerakiAssessment wiki!
 
 This file contains the three problems tackled for my Zeraki assesment:
 
